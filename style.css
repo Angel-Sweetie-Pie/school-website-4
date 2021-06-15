@@ -1,0 +1,52 @@
+#principal{
+    margin-left: 500px;
+}
+#info{
+    margin-right: 700px;
+}
+#classroom{
+    font-size: 15;
+}
+#play{
+    font-size: 15;
+}
+#new{
+    font-size: 35;
+    font-weight: bold;
+}
+#school achive{
+ font-size: 35; 
+    font-weight: bold;
+}
+#campus love{
+    font-size: 35;
+    font-weight: bold;
+}
+#h2{
+     font-size: 35;
+    font-weight: bold;
+}
+#mukesh_ambani img{
+    padding: 20px;
+    border-style:solid;
+    border-width: thin;
+    border-color: black;
+}
+#contact_us{
+    margin: 300px;
+}
+#neha_kakkar img{
+    padding: 20px;
+    border-style:solid;
+    border-width: thin;
+    border-color: black;
+}
+.book img{
+ padding: 20px;
+    border-style:solid;
+    border-width: thin;
+    border-color: black;
+    height: 300px;
+    width: 300px;
+    padding-bottom:50px;
+}
